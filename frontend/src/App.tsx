@@ -70,7 +70,7 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-zinc-950 text-zinc-100 flex flex-col font-sans">
+    <div className="min-h-screen bg-[#0f172a] text-[#f8fafc] flex flex-col font-sans">
       
       {/* Navigation Header */}
       <Navbar
